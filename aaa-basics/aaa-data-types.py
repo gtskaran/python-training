@@ -26,6 +26,7 @@ print(type(c), c)
 print(type(cn), cn)
 
 print("===sequence type (series of values)===")
+#mutable, immutable
 #indexing, slicing
 #packing, unpacking
 #iterator, iterable
